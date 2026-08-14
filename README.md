@@ -78,18 +78,6 @@ Mapeamento de processos, levantamento de requisitos e desenvolvimento de soluç�
 
 ---
 
-# 🔥 Estatísticas de Contribuição
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sidneyg19-lab&theme=github-dark-blue" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
 # 📈 Gráfico de Atividade
 
 <div align="center">
