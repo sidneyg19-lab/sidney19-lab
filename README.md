@@ -78,23 +78,13 @@ Mapeamento de processos, levantamento de requisitos e desenvolvimento de soluç�
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 Estatísticas de Contribuição
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneyg19-lab&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyg19-lab&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sidneyg19-lab&theme=github-dark-blue&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=sidneyg19-lab&theme=github-dark-blue" alt="GitHub Streak"/>
+</a>
 
 </div>
 
